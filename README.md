@@ -177,10 +177,10 @@ ID: 2, Description: Write report, Status: in-progress, Created At: 2025-10-08T13
 
 ## 🧫 Future Improvements
 
-🔹 Add task priority levels
-🔹 Add task due dates and reminders
-🔹 Add search and filtering options
-🔹 Add color-coded terminal outputs
+* Add task priority levels
+* Add task due dates and reminders
+* Add search and filtering options
+* Add color-coded terminal outputs
 
 ---
 
